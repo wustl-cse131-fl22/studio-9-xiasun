@@ -33,4 +33,8 @@ public class WordCount {
 		throw new NotYetImplementedException();
 
 	}
+	public static void main(String[] args) {
+		List<String> words = new List<String>;
+		
+	}
 }
